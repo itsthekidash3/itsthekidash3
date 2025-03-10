@@ -42,10 +42,11 @@ I'm a passionate Software Development Engineer with a strong foundation in build
 * CI/CD (Jenkins, GitHub Actions)
 * Agile Methodologies
 
-## Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" height="30" width="40" /></a>
+</p>
 
-* [LinkedIn](https://www.linkedin.com/in/akshanth-mamidala-a52a21183/)
-* [GitHub](https://github.com/YourGitHubUsername) (Replace with your actual GitHub username)
 
 ---
 
