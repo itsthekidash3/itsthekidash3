@@ -42,6 +42,11 @@ I'm a passionate Software Development Engineer with a strong foundation in build
 * CI/CD (Jenkins, GitHub Actions)
 * Agile Methodologies
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" height="30" width="40" /></a>
