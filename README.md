@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 # Hello there, I'm Akshanth Mamidala 👋
 
+Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it.
 
-I'm a passionate Software Development Engineer with a strong foundation in building scalable and efficient web applications. My expertise lies in leveraging modern technologies like Java, Python, JavaScript, React, Node.js, and AWS to create robust solutions. I'm driven by a desire to continuously learn and contribute to innovative projects.Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects. If you're building something fire, hit me up! Let's connect and make some digital magic happen!
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
