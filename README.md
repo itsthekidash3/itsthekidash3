@@ -47,6 +47,6 @@ I'm a passionate Software Development Engineer with a strong foundation in build
 <a href="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nigama09&show_icons=true&locale=en&layout=compact" alt="itsthekidash3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsthekidash3&show_icons=true&locale=en&layout=compact" alt="itsthekidash3" /></p>
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
