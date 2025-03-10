@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Software Development Engineer | Web & Cloud Enthusiast
 
 
-## About Me
+<h3 align="left">About me:</h3>
 
 I'm a passionate Software Development Engineer with a strong foundation in building scalable and efficient web applications. My expertise lies in leveraging modern technologies like Java, Python, JavaScript, React, Node.js, and AWS to create robust solutions. I'm driven by a desire to continuously learn and contribute to innovative projects.
 
