@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 # Hello there, I'm Akshanth Mamidala 👋
 
 
 I'm a passionate Software Development Engineer with a strong foundation in building scalable and efficient web applications. My expertise lies in leveraging modern technologies like Java, Python, JavaScript, React, Node.js, and AWS to create robust solutions. I'm driven by a desire to continuously learn and contribute to innovative projects.Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center"> 
+<p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" />
 </p>
