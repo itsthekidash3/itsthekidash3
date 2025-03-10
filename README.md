@@ -11,8 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🔭 I’m currently working on:<br>Learning new Data tools.<br><br>🤝 I’m looking to collaborate on:<br>Innovative projects that blend AI and Fintech development.<br><br>👐 I’m looking for help with:<br>Brainstorming and building advanced AI-driven solutions for Fintech applications.<br><br>🌱 I’m currently learning:<br>AWS to deepen my expertise in cloud technologies.<br><br>💬 Ask me about:<br>Full-stack development, AI/ML integration, 
+ and Software Development.<br><br>⚡ Fun fact:<br> I played as a D3 Rugby athlete.
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itsthekidash3&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 -->
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 # Hello there, I'm Akshanth Mamidala 👋
@@ -20,10 +28,6 @@ Here are some ideas to get you started:
 
 I'm a passionate Software Development Engineer with a strong foundation in building scalable and efficient web applications. My expertise lies in leveraging modern technologies like Java, Python, JavaScript, React, Node.js, and AWS to create robust solutions. I'm driven by a desire to continuously learn and contribute to innovative projects.Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
-
-
-🔭 I’m currently working on:<br>Learning new Data tools.<br><br>🤝 I’m looking to collaborate on:<br>Innovative projects that blend AI and Fintech development.<br><br>👐 I’m looking for help with:<br>Brainstorming and building advanced AI-driven solutions for Fintech applications.<br><br>🌱 I’m currently learning:<br>AWS to deepen my expertise in cloud technologies.<br><br>💬 Ask me about:<br>Full-stack development, AI/ML integration, 
- and Software Development.<br><br>⚡ Fun fact:<br> I played as a D3 Rugby athlete.
 
 <p align="center"> 
   Visitor count<br>
@@ -35,14 +39,7 @@ I'm a passionate Software Development Engineer with a strong foundation in build
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsthekidash3&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsthekidash3&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsthekidash3&theme=default_repocard&hide_border=false)![](https://github-contributor-stats.vercel.app/api?username=itsthekidash3&limit=4&theme=dark&combine_all_yearly_contributions=true)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsthekidash3&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsthekidash3&theme=default_repocard&hide_border=false)![](https://github-contributor-stats.vercel.app/api?username=itsthekidash3&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## Connect with me:
