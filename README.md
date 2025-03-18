@@ -29,7 +29,7 @@ Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I buil
 
 Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects. If you're building something fire, hit me up! Let's connect and make some digital magic happen!
 
-🔭 Currently working on:<br>Learning the Data tools to level up my game. 📊🚀.<br><br>🤝 Looking to collaborate on:<br>Cool projects that vibe AI with Fintech magic. 🤖💸<br><br>👐 Looking for help with:<br>Brainstorming and building next-level AI-driven solutions for Fintech apps.💡<br><br>🌱 Currently learning:<br>AWS to flex my cloud tech game. ☁️🔥<br><br>💬 Ask me about:<br>Full-stack dev, AI/ML integration, and building dope Fintech software. 👨‍💻💥<br><br>⚡ Fun fact:<br> I was as a D3 Rugby athlete.🏉💪
+Currently working on 🔭:<br>Data tools to level up my game. 📊🚀.<br><br> Currently learning 🌱:<br>AWS to flex my cloud tech game. ☁️🔥<br><br>Fun fact⚡:<br> I was as a D3 Rugby athlete.🏉💪
 
 <div align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
