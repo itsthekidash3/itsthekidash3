@@ -1,6 +1,9 @@
 <!--
 **itsthekidash3/itsthekidash3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hey you. Yeah, I'm talking to YOU! 👀 Are you lowkey stalking my account? I keep the count!🧑‍💻 <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" /> </br>
+No stress though, just remember to hit me up if you think I'm cool enough! 😎🔥
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,8 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hey you. Yeah, I'm talking to YOU! 👀 Are you lowkey stalking my account? I keep the count!🧑‍💻 <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" /> </br>
-No stress though, just remember to hit me up if you think I'm cool enough! 😎🔥
+
 
 # Hello there, I'm Akshanth Mamidala 👋
 
