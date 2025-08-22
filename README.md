@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hey you. Yeah, I'm talking to YOU! 👀 Are you lowkey stalking my account? I keep the count!🧑‍💻 <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" /></br>
+Hey you. Yeah, I'm talking to YOU! 👀 Are you lowkey stalking my account? I keep the count!🧑‍💻 <img src="https://profile-counter.glitch.me/itsthekidash3/count.svg" /> </br>
 No stress though, just remember to hit me up if you think I'm cool enough! 😎🔥
 
 # Hello there, I'm Akshanth Mamidala 👋
