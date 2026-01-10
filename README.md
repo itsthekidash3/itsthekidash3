@@ -36,14 +36,3 @@ Currently working on 🔭:<br>Data tools to level up my game. 📊🚀.<br><br> 
 <div align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </div>
-
-
-
-
-
-## Connect with me:
-
-<a href="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshanth-mamidala-a52a21183/" height="30" width="40" /></a>
-</p>
-
-
