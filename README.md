@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Hello there, I'm Akshanth Mamidala 👋
 
-Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it.
+Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Lives by : "Its okay. I will figure it out !! " 
 
 Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects. If you're building something fire, hit me up! Let's connect and make some digital magic happen!
 
