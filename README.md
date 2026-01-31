@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-# Hello there, I'm Akshanth Mamidala 👋
+# Hello there, I'm Akshanth Mamidala 👋 Alias ASH
 
 Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Lives by : "Its okay. I will figure it out !! " 
 
