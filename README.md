@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 
-# Hello there, I'm Akshanth(Ash) Mamidala 👋 
+# Hey Twin , I'm Akshanth(Ash) Mamidala 👋 
 
-Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects
+what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects
 
 Motto: “It’s okay. I’ll figure it out.”
 
