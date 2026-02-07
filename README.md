@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 
 # Hello there, I'm Akshanth(Ash) Mamidala 👋 
 
-Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Lives by : "Its okay. I will figure it out !! " 
+Yo, what's good? I'm a Software Dev Engineer vibing with all things code. I build straight-up scalable web apps using the tech stack you actually care about: Java, Python, JS, React, Node.js, and AWS. Basically, if it's cutting-edge, I'm coding it. Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects
 
-Super into the Fintech and ML space – think building the future, ya know? Always leveling up my skills and down to collab on some next-gen projects. If you're building something fire, hit me up! Let's connect and make some digital magic happen! Figuring on What and Why instead of How....
+Motto: “It’s okay. I’ll figure it out.”
+
+I lock in on the what and why first — once that clicks, the how is light work. That’s how clean systems get built, and that mindset is how great engineers are made.
+
+If you're building something fire or you want a good engineer, hit me up! Let's connect and make some digital magic happen! 
 
 Currently working on 🔭:<br>Data tools to level up my game. 📊🚀.<br><br> Currently learning 🌱:<br>AWS to flex my cloud tech game. ☁️🔥<br><br>Fun fact⚡:<br> I was as a D3 Rugby athlete.🏉💪
 
